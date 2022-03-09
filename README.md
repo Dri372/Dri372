@@ -1,5 +1,5 @@
 
-Please, don't forget to click a second time on the large image that will display.
+Please, don't forget to click a second time on the large image that will be displayed.
 
 ![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)
 
